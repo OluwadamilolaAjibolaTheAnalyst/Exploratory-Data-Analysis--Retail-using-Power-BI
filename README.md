@@ -1,4 +1,4 @@
-# Retail-Sales
+
 **Exploratory Data Analysis- Retail using Power BI**
 
 **INTRODUCTION**
@@ -75,6 +75,7 @@ rate compare to other product subcategory
 
 
 **Additional Insights**
+
 ﻿﻿
 ﻿﻿At $35,733.1172, California had the highest Sum of Profit and was 381.64% higher than Texas, which had the lowest Sum of Profit at ($12,687.6957).﻿﻿
 ﻿﻿
