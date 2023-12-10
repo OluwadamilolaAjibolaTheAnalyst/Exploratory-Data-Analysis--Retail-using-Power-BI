@@ -31,12 +31,12 @@ The following tasks was completed in order to address this issues:
 
 **Exploratory Analysis**
 
-In total there are 794 Customer
-4 product Category
-15 Product Sub category
-1863 products
-1 Country
-49 states
+* In total there are 794 Customer
+* 4 product Category
+* 15 Product Sub category
+* 1863 products
+* 1 Country
+* 49 states
 
 **Analysis**
 
@@ -78,10 +78,13 @@ rate compare to other product subcategory
 
 ﻿﻿
 ﻿﻿At $35,733.1172, California had the highest Sum of Profit and was 381.64% higher than Texas, which had the lowest Sum of Profit at ($12,687.6957).﻿﻿
+  
 ﻿﻿
 ﻿﻿Across all 13 State, Sum of Profit ranged from ($12,687.6957) to $35,733.1172.﻿﻿
+  
 ﻿﻿
 ﻿﻿Sum of Sales and total Sum of Profit are positively correlated with each other.﻿﻿
+  
 ﻿﻿
 ﻿﻿Sum of Sales and Sum of Profit diverged the most when the Category was Technology, when Sum of Sales were $367,612.3626 higher than Sum of Profit.﻿﻿
 
