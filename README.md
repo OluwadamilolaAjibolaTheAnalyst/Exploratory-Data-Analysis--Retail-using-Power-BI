@@ -64,9 +64,9 @@ Which product category and subcategory has the massive profit loss?
 Furniture has the highest profit loss which is as a result of the high rate of  discount allocated to this specific category compare to other product category with the sub-category Table account for -9,431 usd profit loss,Bookcases account for -2,049.368 USD profit loss  as a result of the discount rate compare to other product subcategory
 
 
+
 **Additional Insights**
 
-﻿﻿
 * ﻿﻿At $35,733.1172, California had the highest Sum of Profit and was 381.64% higher than Texas, which had the lowest Sum of Profit at ($12,687.6957).
 *  Across all 13 State, Sum of Profit ranged from ($12,687.6957) to $35,733.1172.﻿﻿
 * Sum of Sales and total Sum of Profit are positively correlated with each other.
