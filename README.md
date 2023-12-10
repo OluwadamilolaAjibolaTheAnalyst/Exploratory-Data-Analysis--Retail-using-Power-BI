@@ -22,8 +22,8 @@ The following tasks was completed in order to address this issues:
 2. Exploratory data analysis  and Data insights
 3. Recommendations for improving profit
 4. Data Visualization
-**
-**Data cleaning and Preparation****
+
+Data cleaning and Preparation
 
 1. I changed some of the datatype for all the numrical columns to numerical datatypes ( i.e Whole Number, Fixed decimal) depending on the column
 2. I removed duplicate values from some of the columns
