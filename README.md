@@ -44,20 +44,13 @@ The following tasks was completed in order to address this issues:
 
 what 2 shipment mode have the most profit?
 
-This analysis is to determine the shipment mode that's most
-profitable.the company should focus on using standard class and  
-first class shipment mode because these 2 shipment mode accounted 
-for 76.23% of the overall profit with standard class having the highest
-profit rate at 55.1% and First class at 21.13%
+This analysis is to determine the shipment mode that's most profitable.the company should focus on using standard class and first class shipment mode because these 2 shipment mode accounted  for 76.23% of the overall profit with standard class having the highest profit rate at 55.1% and First class at 21.13%
 
 **Profit by state**
 
 Which state have the highest profit loss?
 
-The company should be worried about texas, illinois and pennsylvania.
-with texas having the highest profit loss,followed by illinois and pennysylvania, the company can 
-create a new customer awareness strategy in this cities. it is also ideal to do a customer survey to know customer preference, reasons why 
- product in this cities are not generating profit.
+The company should be worried about texas, illinois and pennsylvania. With texas having the highest profit loss,followed by illinois and pennysylvania, the company can create a new customer awareness strategy in this cities. it is also ideal to do a customer survey to know customer preference, reasons why product in this cities are not generating profit.
  
 
 ******how much profit was lost?** ****
@@ -68,25 +61,22 @@ What are the reason for the profit loss
 
 Which product category and subcategory has the massive profit loss?
 
-Furniture has the highest profit loss which is as a result of the high rate of 
-discount allocated to this specific category compare to other product category with the sub-category Table account for -9,431 usd profit loss
-Bookcases account for -2,049.368 USD profit loss  as a result of the discount 
-rate compare to other product subcategory
+Furniture has the highest profit loss which is as a result of the high rate of  discount allocated to this specific category compare to other product category with the sub-category Table account for -9,431 usd profit loss,Bookcases account for -2,049.368 USD profit loss  as a result of the discount rate compare to other product subcategory
 
 
 **Additional Insights**
 
 ﻿﻿
-﻿﻿At $35,733.1172, California had the highest Sum of Profit and was 381.64% higher than Texas, which had the lowest Sum of Profit at ($12,687.6957).﻿﻿
+* ﻿﻿At $35,733.1172, California had the highest Sum of Profit and was 381.64% higher than Texas, which had the lowest Sum of Profit at ($12,687.6957).﻿﻿
   
 ﻿﻿
-﻿﻿Across all 13 State, Sum of Profit ranged from ($12,687.6957) to $35,733.1172.﻿﻿
+﻿﻿* Across all 13 State, Sum of Profit ranged from ($12,687.6957) to $35,733.1172.﻿﻿
   
 ﻿﻿
-﻿﻿Sum of Sales and total Sum of Profit are positively correlated with each other.﻿﻿
+﻿﻿* Sum of Sales and total Sum of Profit are positively correlated with each other.﻿﻿
   
 ﻿﻿
-﻿﻿Sum of Sales and Sum of Profit diverged the most when the Category was Technology, when Sum of Sales were $367,612.3626 higher than Sum of Profit.﻿﻿
+﻿﻿* Sum of Sales and Sum of Profit diverged the most when the Category was Technology, when Sum of Sales were $367,612.3626 higher than Sum of Profit.﻿﻿
 
 
 **Recommendations**
