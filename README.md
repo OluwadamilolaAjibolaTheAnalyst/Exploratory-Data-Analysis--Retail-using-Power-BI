@@ -14,7 +14,7 @@ Through data visualisation techniques, such as charts and graphs, EDA preents co
 **Problem Statement: Retail Analysis**
 
 The problem at hand is to analyse a retail data set for a company and develop a predictive model that can identify the weak and where they can make more profit.
-The goal of this analysis is to understand the factors that contribute to the profit loss  and develop a model that can accurately predict profit loss. By identifying product category, subcategory that are at risk of high profit losses, the company can proactively take actions to retain them such as reducing the discount rate allocated for a certain category,improving customer services,or enhancig the value proposition of thier products and services.
+The goal of this analysis is to understand the factors that contribute to the profit loss  and develop a model that can accurately predict profit loss. By identifying product category, subcategory that are at risk of high profit losses, the company can proactively take actions to retain them such as reducing the discount rate allocated for a certain category,improving customer services,or enhancig the value proposition of their products and services.
 
 The following tasks was completed in order to address this issues:
 
@@ -27,7 +27,7 @@ The following tasks was completed in order to address this issues:
 
 1. I changed some of the datatype for all the numrical columns to numerical datatypes ( i.e Whole Number, Fixed decimal) depending on the column
 2. I removed duplicate values from some of the columns
-3. I removed spaces in some columns in the product tables using trim function in power query
+3. I removed spaces in some columns in the product tables using a trim function in power query
 
 **Exploratory Analysis**
 
@@ -75,20 +75,12 @@ Furniture has the highest profit loss which is as a result of the high rate of  
 
 **Recommendations**
 
-1. Discount rate reduction: since furnture has a weak profit as a result of high discount
-rate allocated to this specific category compare to other category, it is ideal
-to reduce the allocated discount rate and scourt for other ways of promoting these specific products
-in other to maintain its competitive sales
+1. Discount rate reduction: since furnture has a weak profit as a result of high discount rate allocated to this specific category compare to other category, it is ideal to reduce the allocated discount rate and scourt for other ways of promoting these specific products in other to maintain its competitive sales
 
 
-2. Optimize product offerings: Capitalize on the popularity on the best selling product
-sub-category by ensuring thier availability and promoting them effectively, conduct market research and customer
-surveys to identify customer preferences and introduce new products subcategory that aligns
-with the customer needs.
+2. Optimize product offerings: Capitalize on the popularity on the best selling product sub-category by ensuring thier availability and promoting them effectively, conduct market research and customer surveys to identify customer preferences and introduce new products subcategory that aligns with the customer needs.
 
-3. Improve customer engagement: Enhance communication strategies across country that generate low profit through 
-email,phone call and online interactions to deliver personalised and relevant services to customers.
-Consider implementing personalised offer, rewards and proactie customer support to improve customer satisfaction and loyalty
+3. Improve customer engagement: Enhance communication strategies across country that generate low profit through email,phone call and online interactions to deliver personalised and relevant services to customers. Consider implementing personalised offer, rewards and proactie customer support to improve customer satisfaction and loyalty
 
 
 
