@@ -11,7 +11,7 @@ Through data visualisation techniques, such as charts and graphs, EDA preents co
 
 
 
-Problem Statement: Retail Analysis
+**Problem Statement: Retail Analysis**
 
 The problem at hand is to analyse a retail data set for a company and develop a predictive model that can identify the weak and where they can make more profit.
 The goal of this analysis is to understand the factors that contribute to the profit loss  and develop a model that can accurately predict profit loss. By identifying product category, subcategory that are at risk of high profit losses, the company can proactively take actions to retain them such as reducing the discount rate allocated for a certain category,improving customer services,or enhancig the value proposition of thier products and services.
@@ -23,7 +23,7 @@ The following tasks was completed in order to address this issues:
 3. Recommendations for improving profit
 4. Data Visualization
 
-Data cleaning and Preparation
+**Data cleaning and Preparation**
 
 1. I changed some of the datatype for all the numrical columns to numerical datatypes ( i.e Whole Number, Fixed decimal) depending on the column
 2. I removed duplicate values from some of the columns
